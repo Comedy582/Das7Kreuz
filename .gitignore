@@ -69,6 +69,8 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Content/Megascans/Baracke/flag-of-the-uk
+Content/Megascans/Baracke/flag(1)
 
 # Cache files for the editor to use
 DerivedDataCache/*
